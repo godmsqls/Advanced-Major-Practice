@@ -1,0 +1,10 @@
+Dataset: Optical Recognition of Handwritten Digits
+Creators: E. Alpaydin and C. Kaynak (1998).
+UCI Machine Learning Repository: https://doi.org/10.24432/C50P49
+https://archive.ics.uci.edu/dataset/80/optical+recognition+of+handwritten+digits
+UCI lists the source dataset under Creative Commons Attribution 4.0 International (CC BY 4.0).
+License: https://creativecommons.org/licenses/by/4.0/
+The included arrays are the 1,797-sample scikit-learn load_digits subset.
+Modifications: float32 conversion; train/validation/test index split with random_state=42.
+No claim of endorsement by the original creators.
+scikit-learn documentation: https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_digits.html
